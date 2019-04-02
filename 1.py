@@ -4,4 +4,4 @@ def question1():
     a = 6
     return a + a + a
 
-assert question1 == "?"
+assert question1() == "?"
