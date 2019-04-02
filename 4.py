@@ -8,4 +8,4 @@ def question4():
     a = l
     return a
 
-assert question4 == "e"
+assert question4() == "e"

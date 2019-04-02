@@ -7,4 +7,4 @@ def question8():
     l = ["a", "b", "c", "d", "e", "f", "g"]
     a=l
     return a
-assert question8 == ["e", "f", "g"]
+assert question8() == ["e", "f", "g"]

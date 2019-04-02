@@ -3,5 +3,5 @@ def question3():
     b = 2
     return a + b
 
-assert question3 == 3
+assert question3() == 3
 

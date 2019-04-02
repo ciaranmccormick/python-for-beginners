@@ -7,5 +7,5 @@ def question7():
     l = ["a", "b", "c", "d", "e", "f", "g"]
     a = l
     return a
-assert question7 == "e"
+assert question7() == "e"
 
