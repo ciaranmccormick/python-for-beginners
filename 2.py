@@ -6,4 +6,4 @@ def question2():
     2a = 4
     return a
 
-assert question2 == 1
+assert question2() == 1
